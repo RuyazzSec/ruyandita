@@ -27,7 +27,7 @@ body.night {
 
 .plane {
   position: absolute;
-  animation: fly 10s linear infinite;
+  animation: fly 15s linear infinite;
   left: -110px;
 }
 
