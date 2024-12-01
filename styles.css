@@ -28,7 +28,7 @@ body.night {
 .plane {
   position: absolute;
   animation: fly 15s linear infinite;
-  left: -110px;
+  left: -150px;
 }
 
 @keyframes fly {
@@ -147,7 +147,7 @@ body.night {
     left: -150px;
   }
   to {
-    left: 100%;
+    left: 200%;
   }
 }
 
